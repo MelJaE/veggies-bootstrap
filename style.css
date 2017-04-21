@@ -28,7 +28,7 @@ footer {
 #main {
     background-color: #FBE7D4;
     padding-bottom: 25px;
-    border-radius: 6px;
+    border-radius: 0 0 6px 6px;
 }
 
 #main .row {
